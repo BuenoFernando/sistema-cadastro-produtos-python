@@ -117,25 +117,19 @@ O banco de dados SQLite será criado automaticamente caso ainda não exista.
 
 ## Interface do sistema
 
-A aplicação possui uma interface gráfica desenvolvida com Tkinter, permitindo realizar o cadastro e gerenciamento dos produtos de forma simples e intuitiva.
+A aplicação possui uma interface gráfica desenvolvida com Tkinter, permitindo realizar o cadastro, consulta e gerenciamento dos produtos de forma simples e intuitiva.
 
-### Funcionalidades principais
+### Tela principal
 
-**Cadastro**
+![Tela principal](imagens/tela-principal.png)
 
-Permite informar código, produto, categoria, preço e estoque.
+### Consulta de produtos
 
-**Consulta**
+![Consulta de produtos](imagens/consulta-produtos.png)
 
-Permite pesquisar produtos por código ou nome e utilizar filtros de status.
+### Filtro por status
 
-**Edição**
-
-Permite atualizar os dados de produtos ativos.
-
-**Ativação e Inativação**
-
-Permite controlar o status dos produtos sem excluir permanentemente os registros.
+![Filtro por status](imagens/filtro-status.png)
 
 ---
 
